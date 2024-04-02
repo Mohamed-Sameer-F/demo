@@ -50,26 +50,27 @@ Once logged in  administrators can  view/modify/delete all details available
 
 User:
 
-![User flow chart](untitled-1.png)
+![User flow chart](pics/untitled-1.png)
 
 Admin:
 
-![Admin flow chart](<untitled (1)-1.png>)
+![Admin flow chart](pics/untitled(1)-1.png)
 
 ### App screenshots
 
 User perspective:
 
-![alt text](Screenshot_20240402_062245.png)
 
-![alt text](Screenshot_20240402_062301.png)
+![alt text](pics/Screenshot_20240402_062245.png)
 
-![alt text](Screenshot_20240402_062550.png)
+![alt text](pics/Screenshot_20240402_062301.png)
+
+![alt text](pics/Screenshot_20240402_062550.png)
 
 Admin perspective:
 
-![alt text](Screenshot_20240402_062355.png)
+![alt text](pics/Screenshot_20240402_062355.png)
 
-![alt text](Screenshot_20240402_062413.png)
+![alt text](pics/Screenshot_20240402_062413.png)
 
-![alt text](Screenshot_20240402_062430.png)
+![alt text](pics/Screenshot_20240402_062430.png)
