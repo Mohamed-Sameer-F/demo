@@ -53,8 +53,8 @@ User:
 ![User flow chart](pics/untitled-1.png)
 
 Admin:
+![Admin flow chart](pics/admin.png)
 
-![Admin flow chart](pics/untitled(1)-1.png)
 
 ### App screenshots
 
